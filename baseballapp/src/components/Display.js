@@ -32,7 +32,6 @@ class Display extends Component {
   }else{
     this.resetCount()
   }
-
 }
 
   ball = () => {
